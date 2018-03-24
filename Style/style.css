@@ -1,0 +1,40 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+header{
+    text-align: center;
+    
+}
+main{
+    text-align: center;
+    }
+h1 {
+    color: blue;
+}
+
+#logo {
+    width:250px;
+}
+
+img{
+    width: 200px;
+}
+
+.arredondar {
+    border-radius: 1.2em
+}
+
+input {
+    width: 100px;
+}
+
+input:hover{
+    color: red;    
+}
+
+textarea{
+    width: 400px
+}
+#email{
+    width: 200px
+}
