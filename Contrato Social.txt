@@ -1,0 +1,17 @@
+Contrato Social
+
+
+1.	Utilizar o Git para controle de versão
+2.	Não Commitar na Master
+3.	Todo o desenvolvimento deverá ter um escopo previamente estabelecido e esclarecido para todos os membros, com a aprovação do cliente
+4.	Entregar as tarefas um dia antes do prazo
+5.	A criação de uma nova branch deverá ser discutida previamente com o time
+6.	Todos os membros do grupo devem saber o que o outros estão fazendo
+7.	Emails devem ser emitidos com assunto e em copia para todos os membros
+8.	Commits na Master ocorrerão após os testes, que não podem ser realizados pelo próprio desenvolvedor
+9.	Cada usuário terá sua branch, que deverá ser sua área de trabalho e que deverá ser unicamente utilizada pelo responsável
+10.	A hierarquia de manunteção deverá seguir a seguinte ordem: 1° O desenvolvedor do código, 2° O responsável do teste
+11.	Todas as atividades deverão ter prazo de entrega
+12.	Dificuldades deverão ser discutidas o quanto antes
+13.	Alterações no escopo deverão ter ciência dos membros e do clientes
+14.	A linguagem utilizada será Python, então a IDE padrão do grupo deverá ser o Pycharm
